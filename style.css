@@ -483,36 +483,36 @@ form {
 input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
   color: #9B9B9B !important;
-  font-size: 16px;
-  font-family: Geomanist-Regular;
+  font-size: 1rem;
+  font-family: Geomanist-Regular, sans-serif !important;
 }
 
 input:-moz-placeholder,
 textarea:-moz-placeholder { /* Firefox 18- */
   color: #9B9B9B !important;
-  font-size: 16px;
-  font-family: Geomanist-Regular;
+  font-size: 1rem;
+  font-family: Geomanist-Regular, sans-serif !important;
 }
 
 input::-moz-placeholder
 textarea::-moz-placeholder {  /* Firefox 19+ */
   color: #9B9B9B !important;
-  font-size: 16px;
-  font-family: Geomanist-Regular;
+  font-size: 1rem;
+  font-family: Geomanist-Regular, sans-serif !important;
 }
 
 input:-ms-input-placeholder,
 textarea:-ms-input-placeholder {
   color: #9B9B9B !important;
-  font-size: 16px;
-  font-family: Geomanist-Regular;
+  font-size: 1rem;
+  font-family: Geomanist-Regular, sans-serif !important;
 }
 
 input::placeholder,
 textarea::placeholder {
   color: #9B9B9B !important;
-  font-size: 16px;
-  font-family: Geomanist-Regular;
+  font-size: 1rem;
+  font-family: Geomanist-Regular, sans-serif !important;
 }
 
 .form-control:focus {
@@ -531,6 +531,12 @@ textarea::placeholder {
 /*FOOTER*/
 .instagram {
   max-width: 50px;
+}
+
+footer p {
+  font-family: 'Geomanist-Regular';
+  font-size: 1rem;
+  color: #FFF;
 }
 
 /*LP*/
