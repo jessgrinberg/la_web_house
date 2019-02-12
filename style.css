@@ -9,12 +9,12 @@
 
 @font-face {
   font-family: Geomanist-Regular;
-  src: url(fonts/Geomanist-regular.ttf);
+  src: url(fonts/geomanist-regular.ttf);
 }
 
 @font-face {
   font-family: Geomanist-Regular-Italic;
-  src: url(fonts/Geomanist-regular-italic.ttf);
+  src: url(fonts/geomanist-regular-italic.ttf);
 }
 
 * {
