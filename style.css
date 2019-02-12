@@ -32,7 +32,6 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   font-family: 'EB Garamond', serif;
-  /*font-family: 'Geomanist-Regular', serif;*/
   color: #4A4A4A;
   font-size: 1.2rem;
 }
@@ -484,35 +483,35 @@ input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
   color: #9B9B9B !important;
   font-size: 1rem;
-  font-family: Geomanist-Regular, sans-serif !important;
+  font-family: 'Geomanist-Regular', serif;
 }
 
 input:-moz-placeholder,
 textarea:-moz-placeholder { /* Firefox 18- */
   color: #9B9B9B !important;
   font-size: 1rem;
-  font-family: Geomanist-Regular, sans-serif !important;
+  font-family: 'Geomanist-Regular', serif;
 }
 
 input::-moz-placeholder
 textarea::-moz-placeholder {  /* Firefox 19+ */
   color: #9B9B9B !important;
   font-size: 1rem;
-  font-family: Geomanist-Regular, sans-serif !important;
+  font-family: 'Geomanist-Regular', serif;
 }
 
 input:-ms-input-placeholder,
 textarea:-ms-input-placeholder {
   color: #9B9B9B !important;
   font-size: 1rem;
-  font-family: Geomanist-Regular, sans-serif !important;
+  font-family: 'Geomanist-Regular', serif;
 }
 
 input::placeholder,
 textarea::placeholder {
   color: #9B9B9B !important;
   font-size: 1rem;
-  font-family: Geomanist-Regular, sans-serif !important;
+  font-family: 'Geomanist-Regular', serif;
 }
 
 .form-control:focus {
